@@ -1,0 +1,4 @@
+repository "AkademiGameJam3@AHHD@cloud"
+  path "/"
+    smartbranch "/main"                               
+     

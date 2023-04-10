@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0421acc75c2b89e4cbda2f4adf16667a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PixelNewspaperII
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e97cee8b044df8e43b6e64fd8a2e89e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
